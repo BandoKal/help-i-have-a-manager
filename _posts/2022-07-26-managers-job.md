@@ -16,23 +16,25 @@ Your manager may have many responsibilities, understanding some of those respons
 
 ![alt]({{site.url}}{{site.baseurl}}/assets/images/work-priority.png){:.align-right height="300px" width="200px"}
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque finibus vestibulum sodales. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris placerat sem id tortor blandit, et pretium neque tempus. Nam tortor nunc, fringilla et turpis in, posuere consequat nisl.
 
 ## Tracking progress
 
-![alt]({{site.url}}{{site.baseurl}}/assets/images/track-progress.png)
+![alt]({{site.url}}{{site.baseurl}}/assets/images/track-progress.png){:.align-left height="300px" width="200px"}
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque finibus vestibulum sodales. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris placerat sem id tortor blandit, et pretium neque tempus. Nam tortor nunc, fringilla et turpis in, posuere consequat nisl.
 
 ## Inter-team communication
 
-![alt]({{site.url}}{{site.baseurl}}/assets/images/inter-team-comm.png)
+![alt]({{site.url}}{{site.baseurl}}/assets/images/inter-team-comm.png){:.align-right height="300px" width="200px"}
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque finibus vestibulum sodales. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris placerat sem id tortor blandit, et pretium neque tempus. Nam tortor nunc, fringilla et turpis in, posuere consequat nisl.
 
 ## Team member growth
 
-![alt]({{site.url}}{{site.baseurl}}/assets/images/team-member-growth.png)
+![alt]({{site.url}}{{site.baseurl}}/assets/images/team-member-growth.png){:.align-left height="300px" width="200px"}}
 
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque finibus vestibulum sodales. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris placerat sem id tortor blandit, et pretium neque tempus. Nam tortor nunc, fringilla et turpis in, posuere consequat nisl.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
