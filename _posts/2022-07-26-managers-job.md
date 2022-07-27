@@ -13,18 +13,11 @@ Your manager may have many responsibilities, understanding some of those respons
 
 
 Work priority
+{% raw %}![alt]("{{ site.url }}{{ site.baseurl }}/assets/images/work-priority.png"){% endraw %}{: .align-right}
+
+<!-- ![alt]("{{site.url}}{{site.baseurl}}/assets/images/work-priority.png") -->
 
 
-
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/track-progress.png){% endraw %}
-
-<!-- ![alt]({{site.url}}{{site.baseurl}}/assets/images/work-priority.png) -->
-
-![alt]("{{site.url}}{{site.baseurl}}/assets/images/work-priority.png")
-
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/jb-head.png" alt="">{% endraw %}
-
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/team-member-growth.png.png){% endraw %}
 
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
