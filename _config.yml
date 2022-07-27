@@ -72,8 +72,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/BandoKal"
 
-sidebar:
-  nav: "docs"
+
 
 footer:
   links:
@@ -99,6 +98,8 @@ defaults:
       comments: true
       share: true
       related: true
+      sidebar:
+        nav: "docs"
   # _pages
   - scope:
       path: "_pages"
@@ -106,6 +107,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sidebar:
+        nav: "docs"
 
 category_archive:
   type: liquid
