@@ -20,7 +20,7 @@ Work priority
 
 <!-- ![alt]({{site.url}}{{site.baseurl}}/assets/images/work-priority.png) -->
 
-![alt]({{site.url}}{{site.baseurl}}/assets/images/work-priority.png)
+![alt]("{{site.url}}{{site.baseurl}}/assets/images/work-priority.png")
 
 {% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/jb-head.png" alt="">{% endraw %}
 
