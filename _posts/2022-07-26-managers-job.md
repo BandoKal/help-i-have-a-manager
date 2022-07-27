@@ -13,9 +13,7 @@ Your manager may have many responsibilities, understanding some of those respons
 
 
 Work priority
-{% raw %}![alt]("{{ site.url }}{{ site.baseurl }}/assets/images/work-priority.png"){% endraw %}{: .align-right}
-
-<!-- ![alt]("{{site.url}}{{site.baseurl}}/assets/images/work-priority.png") -->
+![alt]("{{site.url}}{{site.baseurl}}/assets/images/work-priority.png"){: .align-left}
 
 
 
