@@ -14,7 +14,7 @@ Your manager may have many responsibilities, understanding some of those respons
 
 ## Work priority
 
-![alt]({{site.url}}{{site.baseurl}}/assets/images/work-priority-300x200.png){:.align-right}
+![alt]({{site.url}}{{site.baseurl}}/assets/images/work-priority.png){:.align-right height="300px" width="200px"}
 
 
 ## Tracking progress
