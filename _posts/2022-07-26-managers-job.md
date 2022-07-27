@@ -11,18 +11,11 @@ tags:
 
 Your manager may have many responsibilities, understanding some of those responsibilities can help you understand them better as a person. Gaining that understanding will help you work well with them. Some of the things your manager may be responsible for are:
 
-{{ site.url }}
-
-{{ site.baseurl }}
 
 Work priority
-<!-- ![alt]({{site.url}}{{site.baseurl}}/assets/images/work-priority.png) -->
 
 {% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/work-priority.png){% endraw %}
 
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/jb-head.png" alt="">{% endraw %}
-
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/team-member-growth.png.png){% endraw %}
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
