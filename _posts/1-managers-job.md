@@ -34,7 +34,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque finibus ve
 
 ![alt]({{site.url}}{{site.baseurl}}/assets/images/team-member-growth.png){:.align-left height="280px" width="300px"}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque finibus vestibulum sodales. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris placerat sem id tortor blandit, et pretium neque tempus. Nam tortor nunc, fringilla et turpis in, posuere consequat nisl.
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
