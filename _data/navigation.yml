@@ -10,6 +10,6 @@ main:
 
 docs:
   - title: HELP! I have a Boss!
-  children:
-    - title: "What's your manager's job?"
-      url: /docs/team/managers-job
+    children:
+      - title: "What's your manager's job?"
+        url: /docs/team/managers-job
