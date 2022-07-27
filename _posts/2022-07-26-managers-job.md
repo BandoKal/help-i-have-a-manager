@@ -14,25 +14,25 @@ Your manager may have many responsibilities, understanding some of those respons
 
 ## Work priority
 
-![alt]({{site.url}}{{site.baseurl}}/assets/images/work-priority.png){:.align-right height="300px" width="200px"}
+![alt]({{site.url}}{{site.baseurl}}/assets/images/work-priority.png){:.align-right height="380px" width="400px"}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque finibus vestibulum sodales. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris placerat sem id tortor blandit, et pretium neque tempus. Nam tortor nunc, fringilla et turpis in, posuere consequat nisl.
 
 ## Tracking progress
 
-![alt]({{site.url}}{{site.baseurl}}/assets/images/track-progress.png){:.align-left height="300px" width="200px"}
+![alt]({{site.url}}{{site.baseurl}}/assets/images/track-progress.png){:.align-left height="380px" width="400px"}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque finibus vestibulum sodales. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris placerat sem id tortor blandit, et pretium neque tempus. Nam tortor nunc, fringilla et turpis in, posuere consequat nisl.
 
 ## Inter-team communication
 
-![alt]({{site.url}}{{site.baseurl}}/assets/images/inter-team-comm.png){:.align-right height="300px" width="200px"}
+![alt]({{site.url}}{{site.baseurl}}/assets/images/inter-team-comm.png){:.align-right height="380px" width="400px"}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque finibus vestibulum sodales. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris placerat sem id tortor blandit, et pretium neque tempus. Nam tortor nunc, fringilla et turpis in, posuere consequat nisl.
 
 ## Team member growth
 
-![alt]({{site.url}}{{site.baseurl}}/assets/images/team-member-growth.png){:.align-left height="300px" width="200px"}}
+![alt]({{site.url}}{{site.baseurl}}/assets/images/team-member-growth.png){:.align-left height="380px" width="400px"}}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque finibus vestibulum sodales. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris placerat sem id tortor blandit, et pretium neque tempus. Nam tortor nunc, fringilla et turpis in, posuere consequat nisl.
 
