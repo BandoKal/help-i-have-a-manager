@@ -11,6 +11,10 @@ tags:
 
 Your manager may have many responsibilities, understanding some of those responsibilities can help you understand them better as a person. Gaining that understanding will help you work well with them. Some of the things your manager may be responsible for are:
 
+{{ site.url }}
+
+{{ site.baseurl }}
+
 Work priority
 {% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/work-priority.png){% endraw %}
 
