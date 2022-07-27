@@ -13,7 +13,9 @@ Your manager may have many responsibilities, understanding some of those respons
 
 
 Work priority
+
 ![alt]("{{site.url}}{{site.baseurl}}/assets/images/work-priority.png")
+
 
 
 
