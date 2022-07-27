@@ -1,5 +1,5 @@
 ---
-title: "Post: Link"
+title: "What to talk about in 1:1s"
 categories:
   - Blog
 tags:

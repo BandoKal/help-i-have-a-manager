@@ -1,5 +1,5 @@
 ---
-title: "Post: Notice"
+title: "Work **with** your manager to get promoted"
 categories:
   - Blog
 tags:

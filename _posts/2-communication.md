@@ -1,5 +1,5 @@
 ---
-title: "Post: Quote"
+title: "How to work well with your manager"
 categories:
   - Blog
 tags:

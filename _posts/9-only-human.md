@@ -1,5 +1,5 @@
 ---
-title: "Post: Notice"
+title: "Remember they are only human"
 categories:
   - Blog
 tags:

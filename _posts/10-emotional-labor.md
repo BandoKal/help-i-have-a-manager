@@ -1,5 +1,5 @@
 ---
-title: "Post: Notice"
+title: "Emotional labor"
 categories:
   - Blog
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "Post: Standard"
+title: "Set clear expectations"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

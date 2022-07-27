@@ -1,5 +1,5 @@
 ---
-title: "Post: Chat"
+title: "Talk about problems early"
 categories:
   - Blog
 tags:
